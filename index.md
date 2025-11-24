@@ -1,12 +1,29 @@
 ---
-slug: "github-napolitano-tseng"
-title: "napolitano-tseng"
-repo: "justin-napolitano/napolitano-tseng"
-githubUrl: "https://github.com/justin-napolitano/napolitano-tseng"
-generatedAt: "2025-11-23T09:19:48.136690Z"
-source: "github-auto"
+slug: github-napolitano-tseng
+title: 'napolitano-tseng: Static Site Architecture for Data-Driven Market Research'
+repo: justin-napolitano/napolitano-tseng
+githubUrl: https://github.com/justin-napolitano/napolitano-tseng
+generatedAt: '2025-11-23T09:19:48.136690Z'
+source: github-auto
+summary: >-
+  Technical overview of napolitano-tseng static website leveraging Hugo, TailwindCSS, Python
+  automation, and Netlify for transparent market research services.
+tags:
+  - hugo
+  - tailwindcss
+  - static-site
+  - python-automation
+  - netlify
+  - market-research
+seoPrimaryKeyword: napolitano-tseng
+seoSecondaryKeywords:
+  - hugo
+  - tailwindcss
+  - static site generation
+  - python build script
+  - netlify deployment
+seoOptimized: true
 ---
-
 
 # napolitano-tseng: Technical Overview and Implementation Notes
 
