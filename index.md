@@ -23,6 +23,12 @@ seoSecondaryKeywords:
   - python build script
   - netlify deployment
 seoOptimized: true
+topicFamily: static
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post focuses on a static site project using Hugo, TailwindCSS, and Netlify, covering site
+  architecture, content organization, and build automation. This aligns closest with the 'static'
+  family that emphasizes static site and blog projects utilizing Hugo and related build automation.
 ---
 
 # napolitano-tseng: Technical Overview and Implementation Notes
@@ -71,3 +77,4 @@ Data files in JSON format under `data/` provide dynamic content like slides and 
 This project exemplifies a modern static website with a focus on transparency and rigor in market research. Its architecture leverages static site generation, CSS utility frameworks, and automated build pipelines to deliver a performant and maintainable platform. The combination of Python automation and Node.js tooling reflects a pragmatic approach to managing build complexity.
 
 When returning to this project, focus on the Hugo content structure, the build automation scripts, and the TailwindCSS integration to understand how new features or content should be added or modified.
+
