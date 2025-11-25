@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/napolitano-tseng
 generatedAt: '2025-11-24T21:35:41.227Z'
 source: github-auto
 summary: >-
-  Explore the napolitano-tseng project, a market research platform built with
-  Hugo, TailwindCSS, and Python for automation and deployment.
+  Explore the napolitano-tseng project, a market research platform built with Hugo, TailwindCSS, and
+  Python for automation and deployment.
 tags:
   - hugo
   - tailwindcss
@@ -27,8 +27,8 @@ seoSecondaryKeywords:
   - npm installation
   - build automation
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: static
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -136,3 +136,4 @@ make html
 ---
 
 *This README is generated based on the current repository contents and inferred project details.*
+
