@@ -1,13 +1,13 @@
 ---
 slug: github-napolitano-tseng
-title: 'napolitano-tseng: Static Site Architecture for Data-Driven Market Research'
+title: Technical Overview of the napolitano-tseng Project
 repo: justin-napolitano/napolitano-tseng
 githubUrl: https://github.com/justin-napolitano/napolitano-tseng
 generatedAt: '2025-11-23T09:19:48.136690Z'
 source: github-auto
 summary: >-
-  Technical overview of napolitano-tseng static website leveraging Hugo, TailwindCSS, Python
-  automation, and Netlify for transparent market research services.
+  Explore the architecture, build system, and implementation details of the
+  napolitano-tseng static website for market research services.
 tags:
   - hugo
   - tailwindcss
@@ -15,20 +15,26 @@ tags:
   - python-automation
   - netlify
   - market-research
-seoPrimaryKeyword: napolitano-tseng
-seoSecondaryKeywords:
-  - hugo
-  - tailwindcss
+  - python
   - static site generation
-  - python build script
-  - netlify deployment
+  - market research
+seoPrimaryKeyword: napolitano-tseng project overview
+seoSecondaryKeywords:
+  - hugo build system
+  - tailwindcss integration
+  - static website architecture
+  - market research services
+  - python automation
 seoOptimized: true
 topicFamily: static
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post focuses on a static site project using Hugo, TailwindCSS, and Netlify, covering site
-  architecture, content organization, and build automation. This aligns closest with the 'static'
-  family that emphasizes static site and blog projects utilizing Hugo and related build automation.
+  The post focuses on a static site project using Hugo, TailwindCSS, and
+  Netlify, covering site architecture, content organization, and build
+  automation. This aligns closest with the 'static' family that emphasizes
+  static site and blog projects utilizing Hugo and related build automation.
+kind: project
+id: github-napolitano-tseng
 ---
 
 # napolitano-tseng: Technical Overview and Implementation Notes
