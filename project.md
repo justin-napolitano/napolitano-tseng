@@ -1,20 +1,32 @@
 ---
 slug: github-napolitano-tseng
 id: github-napolitano-tseng
-title: napolitano-tseng
+title: Data-Driven Market Research Platform with Hugo and Python
 repo: justin-napolitano/napolitano-tseng
 githubUrl: https://github.com/justin-napolitano/napolitano-tseng
 generatedAt: '2025-11-24T21:35:41.227Z'
 source: github-auto
 summary: >-
-  The napolitano-tseng website is a data-driven market research platform built
-  using Hugo, TailwindCSS, and Python automation. It provides services including
-  market research, sales analysis, CRM development, and cloud infrastructure
-  management.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore the napolitano-tseng project, a market research platform built with
+  Hugo, TailwindCSS, and Python for automation and deployment.
+tags:
+  - hugo
+  - tailwindcss
+  - python
+  - netlify
+  - makefile
+  - postcss
+  - automation
+  - market research
+seoPrimaryKeyword: data-driven market research platform
+seoSecondaryKeywords:
+  - hugo site generator
+  - tailwindcss styling
+  - python automation scripts
+  - continuous deployment
+  - npm installation
+  - build automation
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
